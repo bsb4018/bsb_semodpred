@@ -11,7 +11,7 @@ body{
   display: flex;
   justify-content: center;
   min-height: 100vh;
-  background: #5256ad;
+  background: #53883e;
 }
 
 .drag-area{
@@ -48,7 +48,7 @@ body{
   border: none;
   outline: none;
   background: #fff;
-  color: #5256ad;
+  color: #e6dd34;
   border-radius: 5px;
   cursor: pointer;
 }
